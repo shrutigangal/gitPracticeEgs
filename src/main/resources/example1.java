@@ -6,5 +6,8 @@ public class example1 {
 		System.out.println("Hello");
 
 	}
-
+	
+	public static main1() {
+    System.out.println("Hello2");
+      }
 }
